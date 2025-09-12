@@ -143,7 +143,7 @@ Backend, DevOps & Other Tools
 
 🏆 LeetCode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/<htetaung/>?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/<Htet-2aung>?theme=dark)
 
 
 
