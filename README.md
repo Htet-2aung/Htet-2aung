@@ -1,13 +1,16 @@
-<!--
-Hi Htet Aung! This version fixes the "Content Security Policy" errors.
-I've removed all the broken "google.com/search" links and replaced them with direct URLs.
-Your GitHub stats and all images should now load correctly.
--->
-
-<!-- Header Section -->
+<script
+  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js"
+  type="module"
+></script>
 
 <div align="center">
-<img src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" width="250" alt="Coding GIF">
+<dotlottie-wc
+  src="https://lottie.host/f2e8d6d1-e1a1-4c4b-bf91-71f6bba0343c/zWVzAqbATG.lottie"
+  style="width: 300px;height: 300px"
+  speed="1"
+  autoplay
+  loop
+></dotlottie-wc>
 
 <h1 align="center">Hi there, I'm Htet Aung 👋</h1>
 
@@ -79,17 +82,19 @@ Backend, DevOps & Other Tools
 <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/ff0cb1f9dd465f4b6f4b0bc76ed7ff238b48fc1e/public/flask-programming-logo_svgstack_com_28321757658548.svg
 " width="36" height="36" alt="Flask" /></a>
+
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/9504b1720122bb8d29cbfb3f7eea7bcc580eb976/public/django-logo_svgstack_com_28171757658631.svg" width="36" height="36" alt="Django" /></a>
+
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/77c97c24caa14ba3b15565ef9456e5c694f74081/public/supabase-logo_svgstack_com_51581757659093.svg" width="36" height="36" alt="Supabase" /></a>
+<img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/77c97c24caa14ba3b15565ef9456e5c694f74081/public/supabase-logo_svgstack_com_51581757659093.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/77c97c24caa14ba3b15565ef9456e5c694f74081/public/linux-logo_svgstack_com_28711757659277.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="FastAPI" /></a>
-</p>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/9504b1720122bb8d29cbfb3f7eea7bcc580eb976/public/fastapi-logo.svg" width="36" height="36" alt="FastAPI" /></a>
 </p>
 
 
