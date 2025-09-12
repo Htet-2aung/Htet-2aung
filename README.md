@@ -76,9 +76,8 @@ Frontend & Mobile Development Tech Stacks
 </p>
 Backend, DevOps & Other Tools
 <p align="left">
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/ff0cb1f9dd465f4b6f4b0bc76ed7ff238b48fc1e/public/nodejs-logo_svgstack_com_28911757658885.svg
-" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/ff0cb1f9dd465f4b6f4b0bc76ed7ff238b48fc1e/public/flask-programming-logo_svgstack_com_28321757658548.svg
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/ff0cb1f9dd465f4b6f4b0bc76ed7ff238b48fc1e/public/nodejs-logo_svgstack_com_28911757658885.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/ff0cb1f9dd465f4b6f4b0bc76ed7ff238b48fc1e/public/flask-programming-logo_svgstack_com_28321757658548.svg
 " width="36" height="36" alt="Flask" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/77c97c24caa14ba3b15565ef9456e5c694f74081/public/supabase-logo_svgstack_com_51581757659093.svg" width="36" height="36" alt="Supabase" /></a>
@@ -128,21 +127,6 @@ Backend, DevOps & Other Tools
 </td>
 </tr>
 </table>
-
-<hr>
-
-<!-- GitHub Stats Section -->
-
-📊 My GitHub Stats
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHtet-2aung%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Htet Aung's GitHub Stats" />
-<br/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHtet-2aung%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="Top Languages" />
-<br/>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DHtet-2aung%26theme%3Ddracula" alt="GitHub Streak" />
-</p>
-
-<hr>
 
 <!-- Connect With Me Section -->
 
