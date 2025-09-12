@@ -143,6 +143,7 @@ Backend, DevOps & Other Tools
 
 🏆 LeetCode Stats
 
-![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/htetaung)
-
+<p align="center" >
+  <img src="https://www.readmecodegen.com/api/leetcode-stats/htetaung" width="400" />
+</p>
 
