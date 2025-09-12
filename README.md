@@ -126,7 +126,7 @@ Backend, DevOps & Other Tools
 📊 My GitHub Stats
 <p align="center">
 <!-- Replace YOUR_GITHUB_USERNAME with your actual username -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHtet-2aung%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Htet Aung's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%Htet-2aung%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Htet Aung's GitHub Stats" />
 <br/>
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="Top Languages" />
 <br/>
