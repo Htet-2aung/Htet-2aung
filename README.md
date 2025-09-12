@@ -7,7 +7,7 @@ Your GitHub stats and all images should now load correctly.
 <!-- Header Section -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rtc2VwZ2l0bm5pZXZqcDYzcXJldm12enpma3QxbzVvZ2Zkdmg2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iAhqV/giphy.gif" width="250" alt="Coding GIF">
+<img src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" width="250" alt="Coding GIF">
 
 <h1 align="center">Hi there, I'm Htet Aung 👋</h1>
 
@@ -50,12 +50,15 @@ I'm a passionate developer skilled in building and deploying responsive web appl
 🛠️ My Tech Stack
 Languages
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20250701090410" width="36" height="36" alt="Python" /></a>
+<a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/ff0cb1f9dd465f4b6f4b0bc76ed7ff238b48fc1e/public/go-lang-logo_svgstack_com_28411757658561.svg
+" width="36" height="36" alt="Go" /></a>
+<a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/ff0cb1f9dd465f4b6f4b0bc76ed7ff238b48fc1e/public/lua-programming-logo_svgstack_com_28731757658591.svg" width="36" height="36" alt="Lua" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/2259097a4eaed9a78c406de6d54fde707a8c42ac/public/java-logo_svgstack_com_28601757658595.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/d53507c52c2b95d6228ad8b5c3d86a23b241b4fa/public/typescript-logo_svgstack_com_31481757659419.svg" width="36" height="36" alt="TypeScript" /></a>
 </p>
 
 Frontend & Mobile Development Tech Stacks
@@ -67,15 +70,9 @@ Frontend & Mobile Development Tech Stacks
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://facebook.github.io/react-native/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" /></a>
-<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/electron-colored.svg" width="36" height="36" alt="Electron" /></a>
+<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/d53507c52c2b95d6228ad8b5c3d86a23b241b4fa/public/electron-js-logo_svgstack_com_28221757658555.svg" width="36" height="36" alt="Electron" /></a>
 </p>
-<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/electron-colored.svg" width="36" height="36" alt="" /></a>
-</p>
-<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/electron-colored.svg" width="36" height="36" alt="Electron" /></a>
-</p>
-<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/electron-colored.svg" width="36" height="36" alt="Electron" /></a>
-</p>
-<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/electron-colored.svg" width="36" height="36" alt="Electron" /></a>
+
 </p>
 Backend, DevOps & Other Tools
 <p align="left">
@@ -87,7 +84,7 @@ Backend, DevOps & Other Tools
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/77c97c24caa14ba3b15565ef9456e5c694f74081/public/supabase-logo_svgstack_com_51581757659093.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/77c97c24caa14ba3b15565ef9456e5c694f74081/public/linux-logo_svgstack_com_28711757659277.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="FastAPI" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="FastAPI" /></a>
 </p>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="MongoDB" /></a>
 </p>
