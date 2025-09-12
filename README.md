@@ -26,11 +26,11 @@ I'm a passionate developer skilled in building and deploying responsive web appl
 
 🎓 I’m a final-year Computer Science student at <b>Ton Duc Thang University</b> on a 100% funded scholarship.<br>
 
-🔭 I’m currently exploring advanced topics in cybersecurity, especially for autonomous systems.<br>
+🔭 I’m currently exploring to develop advanced projects for web or mobile using complex machine learning, computer vision and deep learning technologies.<br>
 
-🌱 I’m currently learning Go and deepening my knowledge of cloud-native technologies.<br>
+🌱 I’m currently learning React Native and deepening my knowledge of android application devlopment.<br>
 
-👯 I’m looking to collaborate on innovative full-stack or cybersecurity projects.<br>
+👯 I’m looking to collaborate on innovative full-stack or computer vision projects.<br>
 
 💬 Ask me about Python, JavaScript, TypeScript, React, Node.js, and Linux system administration!<br>
 </p>
