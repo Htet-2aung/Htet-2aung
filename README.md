@@ -117,16 +117,10 @@ Backend, DevOps & Other Tools
 </div>
 </td>
 <td width="50%">
-<h3 align="center">Insight Grid</h3>
+<h3 align="center">Momentum News</h3>
 <div align="center">
-<p>A portfolio showcasing various data science projects and analyses.</p>
+<p>An application for Android to watch your favourite news</p>
 </div>
 </td>
 </tr>
 </table>
-
-<!-- Footer -->
-
-<div align="center">
-<p><sub>Made with ❤️ and a lot of coffee</sub></p>
-</div>
