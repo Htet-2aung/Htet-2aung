@@ -112,6 +112,8 @@ Backend, DevOps & Other Tools
 <h3 align="center">Podcasty - PWA Podcast App</h3>
 <div align="center">
 <p>A Progressive Web App for discovering and listening to podcasts with offline accessibility, built with TypeScript and Node.js.</p>
+  <a href="https://plate-ai-thetavercel.app/" target="_blank">
+<img src="https://github.com/Htet-2aung/Podcasty/raw/main/assets/demo2.png?raw=true" alt="Live Demo"/>
 </div>
 </td>
 <td width="50%">
