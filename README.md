@@ -143,7 +143,7 @@ Backend, DevOps & Other Tools
 
 🏆 LeetCode Stats
 <p align="center">
-<img src="https://leetcode-stats.vercel.app/api%3Fusername%3Dhtetaung%26theme%3Ddark_dimmed" alt="Htet Aung's LeetCode Stats" />
+![Leetcode Stats](https://leetcard.jacoblin.cool/<htetaung>?theme=dark)
 </p>
 
 
