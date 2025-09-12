@@ -9,10 +9,10 @@ Make sure to replace the placeholder values with your own information!
 <div align="center">
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rtc2VwZ2l0bm5pZXZqcDYzcXJldm12enpma3QxbzVvZ2Zkdmg2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iAhqV/giphy.gif" width="300" alt="Coding GIF">
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Htet Aung 👋</h1>
 
 <p align="center">
-<em>A passionate [Your Role e.g., Full Stack Developer] from [Your Location] 🚀</em>
+<em>A passionate Full Stack Developer 🚀</em>
 </p>
 
 <p align="center">
