@@ -133,7 +133,7 @@ Backend, DevOps & Other Tools
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htet-2aung&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hsu212&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Htet-2aung&theme=radical&hide_border=true" alt="GitHub Streak" />
 <br><br>
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" alt="footer" width="400"/>
 </div>
