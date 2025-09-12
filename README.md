@@ -96,7 +96,7 @@ Backend, DevOps & Other Tools
 <div align="center">
 <p>A full-stack web app for real-time Vietnamese license plate detection using React and Python ML/DL.</p>
 <a href="https://plate-ai-thetavercel.app/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Live-Demo-brightgreen%3Fstyle%3Dfor-the-badge%26logo%3Dvercel" alt="Live Demo"/>
+<img src="https://github.com/Htet-2aung/PLATE.AI/blob/main/assets/Captura%20de%20pantalla%202025-06-09%20181711.png?raw=true" alt="Live Demo"/>
 </a>
 </div>
 </td>
