@@ -1,16 +1,7 @@
-<script
-  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js"
-  type="module"
-></script>
+
 
 <div align="center">
-<dotlottie-wc
-  src="https://lottie.host/f2e8d6d1-e1a1-4c4b-bf91-71f6bba0343c/zWVzAqbATG.lottie"
-  style="width: 300px;height: 300px"
-  speed="1"
-  autoplay
-  loop
-></dotlottie-wc>
+<img src=https://github.com/Htet-2aung/Htet-2aung/blob/main/public/coding.gif?raw=true" width="250" alt="Coding GIF">
 
 <h1 align="center">Hi there, I'm Htet Aung 👋</h1>
 
@@ -20,10 +11,10 @@
 
 <p align="center">
 <a href="https://www.google.com/search?q=https://htet-2aung.github.io/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-Portfolio-blue%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me" alt="Portfolio Website">
+Portfolio Website
 </a>
 <a href="mailto:kienbrown1129@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-red%3Fstyle%3Dfor-the-badge%26logo%3Dgmail" alt="Email Me">
+Email Me
 </a>
 </p>
 </div>
