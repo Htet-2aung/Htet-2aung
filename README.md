@@ -1,7 +1,7 @@
 <!--
-Hi Htet Aung! I've fixed all the broken links in this version.
+Hi Htet Aung! I've fixed all the broken links in this version and added your GitHub username to the stats section.
 The images and links should now load correctly on your profile.
-Just a reminder to replace 'YOUR_GITHUB_USERNAME' in the stats links and fill in your social media links at the bottom!
+Just a reminder to fill in your social media links at the bottom!
 -->
 
 <!-- Header Section -->
@@ -50,7 +50,7 @@ I'm a passionate developer skilled in building and deploying responsive web appl
 🛠️ My Tech Stack
 Languages
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20250701090410" width="36" height="36" alt="Python" /></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -125,12 +125,11 @@ Backend, DevOps & Other Tools
 
 📊 My GitHub Stats
 <p align="center">
-<!-- Replace YOUR_GITHUB_USERNAME with your actual username -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%Htet-2aung%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Htet Aung's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHtet-2aung%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Htet Aung's GitHub Stats" />
 <br/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHtet-2aung%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="Top Languages" />
 <br/>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_GITHUB_USERNAME%26theme%3Ddracula" alt="GitHub Streak" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DHtet-2aung%26theme%3Ddracula" alt="GitHub Streak" />
 </p>
 
 <hr>
