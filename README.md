@@ -125,6 +125,7 @@ Backend, DevOps & Other Tools
 </tr>
 </table>
 
+<hr>
 
 📊 My GitHub Stats
 
