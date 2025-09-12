@@ -144,7 +144,7 @@ Backend, DevOps & Other Tools
 
 🏆 LeetCode Stats
 <p align="center">
-<img src="https://www.google.com/search?q=https://leetcard.jacoblin.cool/htetaung%3Ftheme%3Ddark%26font%3DTomorrow%26hide_border%3Dtrue" alt="Htet Aung's LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/htetaung%3Ftheme%3Ddark%26font%3DTomorrow%26hide_border%3Dtrue" alt="Htet Aung's LeetCode Stats" />
 </p>
 
 
