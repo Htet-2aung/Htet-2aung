@@ -143,7 +143,6 @@ Backend, DevOps & Other Tools
 
 🏆 LeetCode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/<Htet-2aung>?theme=dark)
-
+![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/htetaung)
 
 
