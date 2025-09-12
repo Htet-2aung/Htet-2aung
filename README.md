@@ -1,7 +1,7 @@
 <!--
-Hi Htet Aung! I've fixed all the broken links in this version and added your GitHub username to the stats section.
-The images and links should now load correctly on your profile.
-Just a reminder to fill in your social media links at the bottom!
+Hi Htet Aung! This version fixes the "Content Security Policy" errors.
+I've removed all the broken "google.com/search" links and replaced them with direct URLs.
+Your GitHub stats and all images should now load correctly.
 -->
 
 <!-- Header Section -->
