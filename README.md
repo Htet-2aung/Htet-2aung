@@ -51,8 +51,7 @@ I'm a passionate developer skilled in building and deploying responsive web appl
 Languages
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20250701090410" width="36" height="36" alt="Python" /></a>
-<a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/ff0cb1f9dd465f4b6f4b0bc76ed7ff238b48fc1e/public/go-lang-logo_svgstack_com_28411757658561.svg
-" width="36" height="36" alt="Go" /></a>
+<a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/a091cb0688445475f45203e20bc93a5670be6209/public/go-lang-logo_svgstack_com_28411757658561.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/ff0cb1f9dd465f4b6f4b0bc76ed7ff238b48fc1e/public/lua-programming-logo_svgstack_com_28731757658591.svg" width="36" height="36" alt="Lua" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/2259097a4eaed9a78c406de6d54fde707a8c42ac/public/java-logo_svgstack_com_28601757658595.svg" width="36" height="36" alt="Java" /></a>
