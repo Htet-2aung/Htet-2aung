@@ -69,14 +69,10 @@ Backend, DevOps & Other Tools
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/ff0cb1f9dd465f4b6f4b0bc76ed7ff238b48fc1e/public/nodejs-logo_svgstack_com_28911757658885.svg" width="36" height="36" alt="NodeJS" /></a>
-  
 <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
-  
   <img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/ea56e8667a38bb041591061f1c1010c5493d02e6/public/flask-programming-logo_svgstack_com_28321757658548.svg" width="36" height="36" alt="Flask" /></a>
-
 <a href="" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/9504b1720122bb8d29cbfb3f7eea7bcc580eb976/public/django-logo_svgstack_com_28171757658631.svg" width="36" height="36" alt="Django" /></a>
-
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer">
