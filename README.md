@@ -1,7 +1,6 @@
 
 
 <div align="center">
-<img src=https://github.com/Htet-2aung/Htet-2aung/blob/main/public/coding.gif?raw=true" width="250" alt="Coding GIF">
 
 <h1 align="center">Hi there, I'm Htet Aung 👋</h1>
 
