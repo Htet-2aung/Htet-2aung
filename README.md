@@ -57,7 +57,6 @@ Languages
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/2259097a4eaed9a78c406de6d54fde707a8c42ac/public/java-logo_svgstack_com_28601757658595.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/d53507c52c2b95d6228ad8b5c3d86a23b241b4fa/public/typescript-logo_svgstack_com_31481757659419.svg" width="36" height="36" alt="TypeScript" /></a>
 </p>
 
@@ -73,7 +72,7 @@ Frontend & Mobile Development Tech Stacks
 <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/d53507c52c2b95d6228ad8b5c3d86a23b241b4fa/public/electron-js-logo_svgstack_com_28221757658555.svg" width="36" height="36" alt="Electron" /></a>
 </p>
 
-</p>
+
 Backend, DevOps & Other Tools
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/ff0cb1f9dd465f4b6f4b0bc76ed7ff238b48fc1e/public/nodejs-logo_svgstack_com_28911757658885.svg" width="36" height="36" alt="NodeJS" /></a>
