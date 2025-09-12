@@ -125,15 +125,6 @@ Backend, DevOps & Other Tools
 </tr>
 </table>
 
-<!-- Connect With Me Section -->
-
-🔗 Connect With Me
-<p align="center">
-<em>Fill in your social media handles below!</em><br><br>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" /></a>
-<a href="https://www.google.com/search?q=https://twitter.com/YOUR_TWITTER_USERNAME" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter" height="30" width="40" /></a>
-</p>
-
 <!-- Footer -->
 
 <div align="center">
