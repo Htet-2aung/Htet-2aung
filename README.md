@@ -139,3 +139,12 @@ Backend, DevOps & Other Tools
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" alt="footer" width="400"/>
 </div>
 
+
+<hr>
+
+🏆 LeetCode Stats
+<p align="center">
+<!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username -->
+<img src="https://www.google.com/search?q=https://leetcard.jacoblin.cool/htet-2aung%3Ftheme%3Ddark%26font%3DTomorrow%26hide_border%3Dtrue" alt="Htet Aung's LeetCode Stats" />
+</p>
+
