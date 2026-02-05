@@ -42,7 +42,7 @@ I'm a passionate developer skilled in building and deploying responsive web appl
 🛠️ My Tech Stack
 Languages
 <p align="left">
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png?20250701090410" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20250701090410" width="36" height="36" alt="Python" /></a>
+<a href="https://github.com/Htet-2aung/Htet-2aung/blob/9be4d6e02df4c2a5eb67d820e73ad784c8dbb734/public/python-svgrepo-com.svg" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20250701090410" width="36" height="36" alt="Python" /></a>
 <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/a091cb0688445475f45203e20bc93a5670be6209/public/go-lang-logo_svgstack_com_28411757658561.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/ff0cb1f9dd465f4b6f4b0bc76ed7ff238b48fc1e/public/lua-programming-logo_svgstack_com_28731757658591.svg" width="36" height="36" alt="Lua" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
