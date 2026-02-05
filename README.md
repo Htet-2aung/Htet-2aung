@@ -42,7 +42,7 @@ I'm a passionate developer skilled in building and deploying responsive web appl
 🛠️ My Tech Stack
 Languages
 <p align="left">
-<a href="/public/python-svgrepo-com.svg" target="_blank" rel="noreferrer"><img src="https://github.com/Htet-2aung/Htet-2aung/blob/31c0b571b1250c212fdec28a18093053fcc6dbad/public/python-svgrepo-com.svg" width="36" height="36" alt="Python" /></a>
+<a href="/public/python-svgrepo-com.svg" target="_blank" rel="noreferrer"><img src="public/python-svgrepo-com.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/a091cb0688445475f45203e20bc93a5670be6209/public/go-lang-logo_svgstack_com_28411757658561.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Htet-2aung/Htet-2aung/ff0cb1f9dd465f4b6f4b0bc76ed7ff238b48fc1e/public/lua-programming-logo_svgstack_com_28731757658591.svg" width="36" height="36" alt="Lua" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
