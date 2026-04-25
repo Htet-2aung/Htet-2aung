@@ -10,7 +10,7 @@
     <a href="https://htet-2aung.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:kienbrown1129@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
