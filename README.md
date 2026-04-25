@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Htet Aung 👋</h1>
 
 <p align="center">
-<em>A proactive final-year Computer Science student specializing in full-stack development from Ho Chi Minh City 🚀</em>
+<em>A proactive recent graduate Computer Science student specializing in full-stack development from Ho Chi Minh City 🚀</em>
 </p>
 
 <p align="center">
