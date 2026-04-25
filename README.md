@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=000000&height=200&section=header&text=Htet%20Aung&fontSize=90&animation=fadeIn&fontAlignY=38" />
 
   <p align="center">
     <samp>
