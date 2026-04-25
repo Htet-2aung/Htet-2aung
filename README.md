@@ -55,6 +55,3 @@ I'm a proactive Computer Science student at **Ton Duc Thang University** (100% S
 2. ☁️ Deploying automated environments using **Terraform** on **AWS EC2**.
 3. 🚀 Experimenting with **Next.js 15** Server Actions for rapid prototyping.
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
-</p>
