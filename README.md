@@ -3,7 +3,7 @@
 
   <p align="center">
     <samp>
-      Final Year CS Student @ TTDU | Full-Stack Developer | Machine Learning Enthusiast
+      Graduate CS Student | Full-Stack Software Engineer 
     </samp>
   </p>
 
@@ -19,12 +19,12 @@
 
 ### 👨‍💻 About Me
 
-I'm a proactive Computer Science student at **Ton Duc Thang University** (100% Scholarship Recipient) specializing in building scalable web and mobile applications. Currently, I'm deep-diving into **Ruby on Rails** for enterprise-grade tools and exploring the intersection of **Computer Vision** and **Deep Learning**.
+I'm a proactive Computer Science student at **Ton Duc Thang University** (100% Scholarship Recipient) specializing in building scalable web and mobile applications. My expertise spans from high-performance backends to automated cloud infrastructure.
 
-- 🔭 **Current Project:** Building **BasePlate**, a modern Project Management tool using Rails 8 & Tailwind.
-- 🌱 **Learning:** Mastering **React Native** and Android performance optimization.
-- 👯 **Collaboration:** Open to innovative Full-Stack or AI-driven projects.
-- 💬 **Ask me about:** Python, Go, TypeScript, Linux SysAdmin, and YOLO Object Detection.
+- 🔭 **Current Project:** Building **BasePlate**, an enterprise-grade Team Collaboration tool using Rails 8 & Tailwind.
+- 🌱 **Learning:** Advanced Cloud Architecture with **Terraform** and **AWS**.
+- 👯 **Collaboration:** Open to innovative Full-Stack, Computer Vision, or DevOps projects.
+- 💬 **Ask me about:** Python (FastAPI/Django), Go, Ruby on Rails, and Cloud Automation.
 
 ---
 
@@ -32,11 +32,11 @@ I'm a proactive Computer Science student at **Ton Duc Thang University** (100% S
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Mobile/Desktop** | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) |
-| **DevOps/DB** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
+| **Web Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Python Ecosystem** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=opencv&logoColor=black) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Mobile/DB** | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 ---
 
@@ -51,9 +51,10 @@ I'm a proactive Computer Science student at **Ton Duc Thang University** (100% S
 ---
 
 ### ⚡ Recent Activity
-1. 🚀 Working on **BasePlate** (Ruby on Rails + Tailwind)
-2. 📸 Optimizing License Plate Detection with **YOLOv8**
-3. 📱 Experimenting with gesture-based navigation in **React Native**
+1. 🏗️ Architecting **BasePlate** with a modular microservices approach.
+2. ☁️ Deploying automated environments using **Terraform** on **AWS EC2**.
+3. 🚀 Experimenting with **Next.js 15** Server Actions for rapid prototyping.
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 </p>
