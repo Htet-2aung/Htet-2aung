@@ -39,16 +39,6 @@ I'm a proactive Computer Science student at **Ton Duc Thang University** (100% S
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Htet-2aung&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=555555" alt="Htet Aung's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Htet-2aung&theme=transparent&hide_border=true&title_color=000000&stroke=000000&sideNums=000000&sideTitle=555555" alt="Htet Aung's Streak" />
-</div>
-
----
-
 ### ⚡ Recent Activity
 1. 🏗️ Architecting **BasePlate** with a modular microservices approach.
 2. ☁️ Deploying automated environments using **Terraform** on **AWS EC2**.
