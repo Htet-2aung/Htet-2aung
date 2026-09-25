@@ -18,12 +18,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a proactive Computer Science student at **Ton Duc Thang University** (100% Scholarship Recipient) specializing in building scalable web and mobile applications. My expertise spans from high-performance backends to automated cloud infrastructure.
-
-- 🔭 **Current Project:** Building **BasePlate**, an enterprise-grade Team Collaboration tool using Rails 8 & Tailwind.
-- 🌱 **Learning:** Advanced Cloud Architecture with **Terraform** and **AWS**.
-- 👯 **Collaboration:** Open to innovative Full-Stack, Computer Vision, or DevOps projects.
-- 💬 **Ask me about:** Python (FastAPI/Django), Go, Ruby on Rails, and Cloud Automation.
+I am the CEO and Lead Software Engineer at Origins LTD. UK, specializing in architecting and delivering scalable web and mobile applications. My expertise spans from building high-performance backends to deploying automated cloud infrastructure, bridging technical execution with strategic business growth.
 
 ---
 
