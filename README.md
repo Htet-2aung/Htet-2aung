@@ -2,7 +2,7 @@
 
   <p align="center">
     <samp>
-      Graduate CS Student | Full-Stack Software Engineer 
+      Graduate CS Student | CEO and Lead Software Engineer at Origins Ltd. UK
     </samp>
   </p>
 
