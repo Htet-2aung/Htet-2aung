@@ -2,7 +2,7 @@
 
   <p align="center">
     <samp>
-      Graduate CS Student | CEO and Lead Software Engineer at Origins Ltd. UK
+      Graduate CS Student | CEO and Lead Software Engineer at Origins Software Ltd. UK
     </samp>
   </p>
 
