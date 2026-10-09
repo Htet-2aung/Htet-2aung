@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-
+I am the CEO and Lead Software Engineer at Origins LTD. UK, specializing in architecting and delivering scalable web and mobile applications. My expertise spans from building high-performance backends to deploying automated cloud infrastructure, bridging technical execution with strategic business growth.
 
 ---
 
